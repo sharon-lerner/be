@@ -1,0 +1,29 @@
+{
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "isbn": "978-0743273565",
+            "description": "A novel by F. Scott Fitzgerald, set in the Jazz Age, depicting the decadence and excess of the era."
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "isbn": "978-0446310786",
+            "description": "A novel by Harper Lee, set in the American South, depicting racial injustice and the loss of innocence."
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "isbn": "978-0316769488",
+            "description": "A novel by J.D. Salinger, depicting the struggles of a teenage boy in New York City."
+        },
+        {
+            "title": "The Lord of the Rings",
+            "isbn": "978-0345339706",
+            "description": "A fantasy novel by J.R.R. Tolkien, depicting the quest to destroy a powerful ring and defeat an evil ruler."
+        },
+        {
+            "title": "The Hobbit",
+            "isbn": "978-0547928227",
+            "description": "A fantasy novel by J.R.R. Tolkien, depicting the journey of a hobbit to reclaim a treasure from a dragon."
+        }
+    ]
+}
